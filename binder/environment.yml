@@ -3,6 +3,3 @@ dependencies:
   - python
   - numpy
   - msprime
-  - pip:
-    - toytree
-    - toyplot
