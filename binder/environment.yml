@@ -1,0 +1,8 @@
+name: demo_simulate
+dependencies:
+  - python
+  - numpy
+  - msprime
+  - pip:
+    - toytree
+    - toyplot
